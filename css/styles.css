@@ -6,12 +6,12 @@
 
 section {
   height: 100vh;
-  background-color: rgb(39, 41, 68);
+  background-color: pink;
   font-family: sans-serif;
 }
 
 .score {
-  color: rgb(224, 224, 224);
+  color: white;
   height: 20vh;
   display: flex;
   justify-content: space-around;
@@ -27,7 +27,7 @@ section {
 }
 
 .intro {
-  color: rgb(224, 224, 224);
+  color: white;
   height: 50vh;
   display: flex;
   flex-direction: column;
@@ -45,9 +45,9 @@ section {
   height: 50px;
   background: none;
   border: none;
-  color: rgb(224, 224, 224);
+  color: white;
   font-size: 20px;
-  background: rgb(45, 117, 96);
+  background: green;
   border-radius: 3px;
   cursor: pointer;
 }
